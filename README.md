@@ -1,9 +1,9 @@
-### Eu sou o Renan Silva
+### Olá me chamo  Renan Silva
 
 <div style="display: inline_block;"><br/>
 <h2> Sobre Min </h2>
 <p>
-  Formação em Analise de Sistemas pela Cotemig , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se sistemas para dispositivos móveis e web.
+  Formação em Analise de Sistemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se sistemas para dispositivos móveis e web.
   
   Dedico meu tempo  livre  no aprimoramento de novos frameworks , linguagens  , arquiteturas e projetos pessoais relacionados a eletrônica. Sempre em busca de novos desafios , oportunidades de 
   crescimento pessoal e profissional.<br/><br/>
