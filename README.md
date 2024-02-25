@@ -1,4 +1,4 @@
-### Olá me chamo  Renan Silva
+### Olá me chamo  Renan Costa e Silva
 
 <div style="display: inline_block;"><br/>
 <h2> Sobre Min </h2>
