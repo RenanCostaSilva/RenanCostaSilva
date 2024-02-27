@@ -1,7 +1,7 @@
 ### Olá me chamo  Renan Costa e Silva
 
 <div style="display: inline_block;"><br/>
-<h2> Sobre Min </h2>
+<h2> Sobre Mim </h2>
 <p>
   Formação em Analise de Sistemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se sistemas para dispositivos móveis e web.
   
