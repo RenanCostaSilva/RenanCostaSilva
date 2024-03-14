@@ -1,14 +1,14 @@
 
-<h1> * Os repositorios estão sendo atualizado.Então projetos podem desaparecer para poder surgir outros melhores e mais elaborados. </h1></br>
-### Olá me chamo  Renan Costa e Silva
+<h2> * Os repositorios estão sendo atualizado.Então projetos podem desaparecer para poder surgir outros melhores e mais elaborados. </h2></br>
 
+<div style="display: inline_block;"> :blush: :wave: Olá me chamo  Renan Costa e Silva</div>
+  
 <div style="display: inline_block;"><br/>
 <h2> Sobre Min </h2>
 <p>
-  Formação em Analise de Sistemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se sistemas para dispositivos móveis e web.
-  
-  Dedico meu tempo  livre  no aprimoramento de novos frameworks , linguagens  , arquiteturas e projetos pessoais relacionados a eletrônica. Sempre em busca de novos desafios , oportunidades de 
-  crescimento pessoal e profissional.<br/>
+  Formação em Tecnólogo em Análise e Desenvolvimento de Sitemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se   
+  sistemas para dispositivos móveis e web. Dedico meu tempo  livre  no aprimoramento de novos frameworks , linguagens  , arquiteturas e projetos pessoais relacionados a eletrônica. Sempre em busca de novos 
+  desafios , oportunidades de crescimento pessoal e profissional.<br/>
 </p>
 
 </div>
@@ -16,13 +16,13 @@
 <div style="display: inline_block;"><br/>
 <h2> Serviços </h2>
 <p>
-  Presto serviços de desenvolvedor mobile , desenvolvedor WEB Full Stack , Code Review entro outros como Pessoa Físcia ou Jurídica .<br/><br/>
+  Presto serviços de Desenvolvedor Mobile , Desenvolvedor Java Full Stack , Analista de Sistemas e também atuo como Pessoa Jurídica.<br/><br/>
 </p><br/>
 
 </div>
 
 ### Estas são minhas redes sociais 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hydra11dev/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cry_info/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-costa-e-silva/))
 
 
