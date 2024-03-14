@@ -16,7 +16,7 @@
 <div style="display: inline_block;"><br/>
 <h2> Serviços </h2>
 <p>
-  Presto serviços de Desenvolvedor Mobile , Desenvolvedor Java Full Stack , Analista de Sistemas e também atuo como Pessoa Jurídica.<br/><br/>
+  Presto serviços de Desenvolvedor Mobile , Desenvolvedor Java Full Stack , Analista de Sistemas .Elaboro setup para multi telas como as que coloquei no meu instagram e também atuo como Pessoa Jurídica.<br/><br/>
 </p><br/>
 
 </div>
