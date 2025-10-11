@@ -6,8 +6,9 @@
 <div style="display: inline_block;"><br/>
 <h2> Sobre Min </h2>
 <p>
-  Formação em Tecnólogo em Análise e Desenvolvimento de Sitemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se   
-  sistemas para dispositivos móveis e web. Dedico meu tempo  livre  no aprimoramento de novos frameworks , linguagens  , arquiteturas e projetos pessoais relacionados a eletrônica. Sempre em busca de novos 
+  Formação em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se   
+  sistemas para dispositivos móveis e web. Sou profissional com 15 anos de experiência em Sistemas de Informação, dos quais 7 atuando diretamente em desenvolvimento de software.
+  Dedico meu tempo  livre  no aprimoramento de novos frameworks , linguagens  , arquiteturas e projetos pessoais relacionados a eletrônica. Sempre em busca de novos 
   desafios , oportunidades de crescimento pessoal e profissional.<br/>
 </p>
 
