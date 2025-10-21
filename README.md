@@ -4,7 +4,7 @@
 <div style="display: inline_block;"> :blush: :wave: Olá me chamo  Renan Costa e Silva</div>
   
 <div style="display: inline_block;"><br/>
-<h2> Sobre Min </h2>
+<h2> Sobre Mim </h2>
 <p>
   Formação em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Cotemig em 2015 , atuo na área de tecnologia da Informação em desenvolvimento de software e análise se   
   sistemas para dispositivos móveis e web. Sou profissional com 15 anos de experiência em Sistemas de Informação, dos quais 7 atuando diretamente em desenvolvimento de software.
